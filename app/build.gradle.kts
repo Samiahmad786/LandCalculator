@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "in.biharjamin.calculator"
+    namespace = "com.biharjamin.calculator"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "in.biharjamin.calculator"
+        applicationId = "com.biharjamin.calculator"
         minSdk = 23
         targetSdk = 35
         versionCode = 3
