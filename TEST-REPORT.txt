@@ -1,0 +1,15 @@
+Static validation performed in this environment:
+PASS - Hindi/English language toggle code present
+PASS - District/village custom profile storage code present
+PASS - Calculation history local persistence code present
+PASS - PDF generation and Android FileProvider share code present
+PASS - Android share intent for WhatsApp/other apps present
+PASS - Katha + Dhur to Decimal formula code present
+PASS - Decimal to Katha + Dhur formula code present
+PASS - Length x Width area calculation code present
+PASS - FileProvider manifest/path configuration present
+
+IMPORTANT:
+A full Android Gradle compile and emulator/device run could not be executed in this environment because Gradle/Android SDK are not installed here. Therefore this is not represented as a successfully compiled APK. Use the included GitHub Actions workflow to compile; it will report any compiler errors and upload the APK artifact if the build passes.
+
+Developer credit: Developed by Sami Sajjad
