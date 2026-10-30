@@ -1,4 +1,4 @@
-package in.biharjamin.calculator
+package com.biharjamin.calculator
 
 import android.content.Intent
 import android.graphics.Paint
